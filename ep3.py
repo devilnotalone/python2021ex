@@ -1,0 +1,8 @@
+print("ทดสอบ")
+print(-1)
+print(1)
+print(0)
+print(3.99)
+print(True)
+print(False)
+print("test1 \n"+"test2"+"\t t123")
