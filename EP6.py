@@ -12,3 +12,7 @@ print(result2)
 print(type(x))
 print(type(y))
 print(type(z))
+
+print(float(z))
+print(str(y))
+print(type(z))
